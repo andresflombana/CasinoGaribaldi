@@ -19,7 +19,7 @@ El objetivo es atraer a nuevos clientes, facilitar la planificación de visitas 
 
 ## Herramientas Utilizadas
 
-- Bootstrap: Framework de CSS para el diseño del sitio.
+- JavaScript: Lenguaje utilizado para agregar interactividad y dinamismo al sitio.
 - CSS: Lenguaje de estilo utilizado para personalizar el diseño.
 - HTML: Lenguaje de marcado para la estructura del sitio.
 
@@ -27,9 +27,15 @@ El objetivo es atraer a nuevos clientes, facilitar la planificación de visitas 
 
 ## Integrantes
 
+<p align="center">
 - Andrés Lombana
+</p>
+<p align="center">
 - Sergio Morillo
+</p>
+<p align="center">
 - Carlos Arcos
+</p>
 
 ---
 
