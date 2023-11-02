@@ -28,7 +28,7 @@ El objetivo es atraer a nuevos clientes, facilitar la planificación de visitas 
 ## Integrantes
 
 <p align="center">
-- Andrés Lombana
+- Andrés Lombana (Administrador)
 </p>
 <p align="center">
 - Sergio Morillo
