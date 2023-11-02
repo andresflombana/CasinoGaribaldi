@@ -4,7 +4,7 @@
     <img src="https://iili.io/JKDli2j.md.png" alt="JKDli2j.md.png" border="0"></a>
 </p>
 
-## Desarrollo de Sitio Web con JavaScript, CSS y HTML
+## Desarrollo de Sitio Web con Bootstrap, CSS y HTML
 
 ---
 
@@ -19,9 +19,9 @@ El objetivo es atraer a nuevos clientes, facilitar la planificación de visitas 
 
 ## Herramientas Utilizadas
 
-- JavaScript: Lenguaje utilizado para agregar interactividad y dinamismo al sitio.
-- CSS: Lenguaje de estilo utilizado para personalizar el diseño.
-- HTML: Lenguaje de marcado para la estructura del sitio.
+- **Bootstrap**: Framework de CSS para el diseño del sitio.
+- **CSS**: Lenguaje de estilo utilizado para personalizar el diseño.
+- **HTML**: Lenguaje de marcado para la estructura del sitio.
 
 ---
 
