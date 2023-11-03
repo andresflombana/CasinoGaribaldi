@@ -1,53 +1,23 @@
-# Casino Garibaldi
+# Acerca de
 
 <p align="center">
     <img src="https://iili.io/JKDli2j.md.png" alt="JKDli2j.md.png" border="0"></a>
 </p>
 
-## Desarrollo de Sitio Web con Bootstrap, CSS y HTML
+---
+
+## Descripción de la Rama
+
+- Dentro de la rama "Acerca de" de nuestro repositorio, se concentra en la presentación y modificación de los contenidos relacionados con la sección "Acerca de nosotros". 
+- Esta sección es esencial para que los visitantes conozcan más sobre la empresa, su misión, historia y licencias. Cualquier cambio en esta rama tiene un impacto directo en cómo la empresa se presenta al mundo, lo que influye en la percepción de la marca y en la confianza de los usuarios.
+- Es aquí donde se actualiza la información relevante, se mejoran las descripciones y se incorporan elementos visuales que ayudan a transmitir nuestra identidad y valores de manera efectiva.
 
 ---
 
-## Propósito del Sitio
-
-El sitio web del Casino Garibaldi es una plataforma diseñada para promocionar y proporcionar información sobre este establecimiento de entretenimiento. 
-Su propósito principal es ofrecer a los visitantes una visión general de la institución, incluyendo su ubicación, servicios, Licencias e historia.
-Además, presenta imágenes atractivas para que los usuarios puedan explorar visualmente el casino y decidir si desean visitarlo en persona. 
-El objetivo es atraer a nuevos clientes, facilitar la planificación de visitas y ofrecer una experiencia en línea informativa y visual.
-
----
-
-## Herramientas Utilizadas
-
-- **Bootstrap**: Framework de CSS para el diseño del sitio.
-- **CSS**: Lenguaje de estilo utilizado para personalizar el diseño.
-- **HTML**: Lenguaje de marcado para la estructura del sitio.
-
----
-
-## Integrantes
+## Responsable
 
 <p align="center">
-- Andrés Lombana (Administrador)
-</p>
-<p align="center">
-- Sergio Morillo
-</p>
-<p align="center">
-- Carlos Arcos
+Sergio Morillo
 </p>
 
 ---
-
-## Instrucciones para Clonar y Ejecutar el Proyecto
-
-### Requisitos Previos
-
-- Navegador web (como Chrome o Firefox)
-
-### Instalación
-
-1. Clona este repositorio en tu máquina local utilizando Git:
-
-   ```bash
-   git clone https://github.com/andresflombana/CasinoGaribaldi.git
