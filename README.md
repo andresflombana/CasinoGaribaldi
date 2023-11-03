@@ -1,4 +1,4 @@
-# Casino Garibaldi
+# Contacto
 
 <p align="center">
     <img src="https://iili.io/JKDli2j.md.png" alt="JKDli2j.md.png" border="0"></a>
@@ -6,37 +6,20 @@
 
 ---
 
-## Desarrollo de Sitio Web con Bootstrap, CSS y HTML
+## Descripción de la Rama
 
----
+- Dentro de la rama "Contacto" de nuestro repositorio, se gestiona la visualización y la interacción con la sección de contacto de nuestro sitio web. 
+- Esta sección es vital para que los visitantes puedan comunicarse con nosotros y brindar retroalimentación. En esta rama, se trabaja en la mejora de formularios, detalles de contacto y funcionalidades relacionadas. 
+- La eficacia de esta sección influye en la capacidad que creamos para interactuar con los usuarios, recopilar comentarios importantes y facilitar la comunicación entre la empresa y el público.
 
-## Propósito del Sitio
-
-El sitio web del Casino Garibaldi es una plataforma diseñada para promocionar y proporcionar información sobre este establecimiento de entretenimiento. 
-Su propósito principal es ofrecer a los visitantes una visión general de la institución, incluyendo su ubicación, servicios, Licencias e historia.
-Además, presenta imágenes atractivas para que los usuarios puedan explorar visualmente el casino y decidir si desean visitarlo en persona. 
-El objetivo es atraer a nuevos clientes, facilitar la planificación de visitas y ofrecer una experiencia en línea informativa y visual.
-
----
-
-## Herramientas Utilizadas
-
-- **Bootstrap**: Framework de CSS para el diseño del sitio.
-- **CSS**: Lenguaje de estilo utilizado para personalizar el diseño.
-- **HTML**: Lenguaje de marcado para la estructura del sitio.
 
 ---
 
 ## Responsable
 
 <p align="center">
-- Andrés Lombana (Administrador)
-</p>
-<p align="center">
-- Sergio Morillo
-</p>
-<p align="center">
-- Carlos Arcos
+
+Andrés Lombana (Administrador)
 </p>
 
 ---
