@@ -18,7 +18,7 @@
 ## Responsable
 
 <p align="center">
-Carlos Arcos
+Carlos Arcos Arcos
 </p>
 
 ---
