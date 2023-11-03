@@ -1,4 +1,6 @@
+
 # Ubicación
+
 
 <p align="center">
     <img src="https://iili.io/JKDli2j.md.png" alt="JKDli2j.md.png" border="0"></a>
@@ -18,6 +20,7 @@
 ## Responsable
 
 <p align="center">
+  
 Andrés Lombana (Administrador)
 </p>
 
