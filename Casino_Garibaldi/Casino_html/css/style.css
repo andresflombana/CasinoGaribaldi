@@ -68,7 +68,7 @@ body {
   left: -45px;
   width: 37px;
   height: 32px;
-  background-image: url(../images/herbal.png);
+  background-image: url(../images/Acerca_de_icono.png);
   background-size: cover;
 }
 
@@ -241,7 +241,7 @@ a:focus {
   margin-left: auto;
   margin-right: auto;
   padding: 75px 45px;
-  background-image: url(../images/about.jpg);
+  background-image: url(../images/acercade.jpg);
   background-size: auto 100%;
   background-color: #fff;
   background-position: center;
@@ -249,7 +249,7 @@ a:focus {
   margin-top: -150px;
   -webkit-box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.21);
   box-shadow: 1px 1px 5px 0px rgba(0, 0, 0, 0.21);
-}
+} 
 
 .about_section .about_container .container {
   display: -webkit-box;

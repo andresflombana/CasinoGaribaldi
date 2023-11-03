@@ -17,6 +17,7 @@
 ## Responsable
 
 <p align="center">
+
 Andrés Lombana (Administrador)
 </p>
 
