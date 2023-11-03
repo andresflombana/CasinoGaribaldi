@@ -1,4 +1,4 @@
-# INDEX
+# Contacto
 
 <p align="center">
     <img src="https://iili.io/JKDli2j.md.png" alt="JKDli2j.md.png" border="0"></a>
@@ -8,9 +8,10 @@
 
 ## Descripción de la Rama
 
-- Dentro de esta rama específica del repositorio, se realiza el trabajo relacionado con la visualización y modificación de elementos que conforman la estructura HTML de la página principal, conocida como "index".
-- Esta página es fundamental para el funcionamiento del sitio web y suele ser la primera que los visitantes ven al acceder. Por lo tanto, cualquier cambio o mejora en esta rama tiene un impacto directo en la experiencia del usuario y en la presentación de contenido clave del sitio. 
-- La calidad y la eficiencia de las modificaciones realizadas en esta rama son cruciales para garantizar una experiencia de usuario sobresaliente y el éxito general del sitio web.
+- Dentro de la rama "Contacto" de nuestro repositorio, se gestiona la visualización y la interacción con la sección de contacto de nuestro sitio web. 
+- Esta sección es vital para que los visitantes puedan comunicarse con nosotros y brindar retroalimentación. En esta rama, se trabaja en la mejora de formularios, detalles de contacto y funcionalidades relacionadas. 
+- La eficacia de esta sección influye en la capacidad que creamos para interactuar con los usuarios, recopilar comentarios importantes y facilitar la comunicación entre la empresa y el público.
+
 
 ---
 
