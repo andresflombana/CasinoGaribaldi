@@ -1,5 +1,6 @@
 # Nuestras Máquinas
 
+
 <p align="center">
     <img src="https://iili.io/JKDli2j.md.png" alt="JKDli2j.md.png" border="0"></a>
 </p>
@@ -20,5 +21,3 @@
 <p align="center">
 Carlos Arcos Arcos
 </p>
-
----
