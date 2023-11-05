@@ -365,7 +365,7 @@ a:focus {
 }
 
 .contact_section h2::before {
-  background-image: url(../images/herbal-white.png);
+  background-image: url(../images/telephone-white.png);
 }
 
 .contact_section input {
@@ -440,8 +440,8 @@ a:focus {
   min-width: 225px;
   min-height: 225px;
   border-radius: 100%;
-  background: -webkit-gradient(linear, left top, right top, from(#afad04), to(#5da802));
-  background: linear-gradient(to right, #afad04, #5da802);
+  background: -webkit-gradient(linear, left top, right top, from(#000000), to(#ffffff));
+  background: linear-gradient(to right, #ffffff, #ffffff);
   margin-right: 15px;
 }
 
