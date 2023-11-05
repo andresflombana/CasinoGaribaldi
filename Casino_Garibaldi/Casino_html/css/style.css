@@ -229,7 +229,7 @@ a:focus {
 
 .hero_section .hero_btn-box a:hover {
   background-color: #ffffff;
-  color: #00ff00;
+  color: #000000;
 }
 
 .sub_page .about_section .about_container {
@@ -268,14 +268,14 @@ a:focus {
   display: inline-block;
   padding: 14px 35px;
   background-color: transparent;
-  border: 1.5px solid #00ff00;
-  color: #00ff00;
-  color: #3cff3c;
+  border: 1.5px solid #000000;
+  color: #000000;
+  color: #000000;
   margin-top: 75%;
 }
 
 .about_section .detail a:hover {
-  background-color: #00ff00;
+  background-color: #000000;
   color: #ffffff;
 }
 
@@ -323,13 +323,13 @@ a:focus {
   display: inline-block;
   padding: 14px 35px;
   background-color: transparent;
-  border: 1.5px solid #00ff00;
-  color: #00ff00;
-  color: #3cff3c;
+  border: 1.5px solid #000000;
+  color: #000000;
+  color: #000000;
 }
 
 .product_section a:hover {
-  background-color: #00ff00;
+  background-color: #000000;
   color: #ffffff;
 }
 
@@ -440,8 +440,8 @@ a:focus {
   min-width: 225px;
   min-height: 225px;
   border-radius: 100%;
-  background: -webkit-gradient(linear, left top, right top, from(#afad04), to(#5da802));
-  background: linear-gradient(to right, #afad04, #5da802);
+  background: -webkit-gradient(linear, left top, right top, from(#000000), to(#ffffff));
+  background: linear-gradient(to right, #ffffff, #ffffff);
   margin-right: 15px;
 }
 
@@ -451,8 +451,8 @@ a:focus {
 
 .client_section .detail_box {
   padding: 25px;
-  background: -webkit-gradient(linear, left top, left bottom, from(#afad04), to(#5da802));
-  background: linear-gradient(to bottom, #afad04, #5da802);
+  background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#ffffff));
+  background: linear-gradient(to bottom, #ffffff, #000000);
   color: #ffffff;
   display: -webkit-box;
   display: -ms-flexbox;
