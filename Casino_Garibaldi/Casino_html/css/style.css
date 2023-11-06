@@ -346,13 +346,13 @@ a:focus {
   display: inline-block;
   padding: 14px 35px;
   background-color: transparent;
-  border: 1.5px solid #00ff00;
-  color: #00ff00;
-  color: #3cff3c;
+  border: 1.5px solid #000000;
+  color: #000000;
+  color: #000000;
 }
 
 .why_section a:hover {
-  background-color: #00ff00;
+  background-color: #000000;
   color: #ffffff;
 }
 
@@ -451,7 +451,7 @@ a:focus {
 
 .client_section .detail_box {
   padding: 25px;
-  background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#ffffff));
+  background: -webkit-gradient(linear, left top, left bottom, from(#000000), to(#000000));
   background: linear-gradient(to bottom, #ffffff, #000000);
   color: #ffffff;
   display: -webkit-box;
