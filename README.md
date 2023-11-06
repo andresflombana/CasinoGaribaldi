@@ -1,6 +1,4 @@
-
-# Ubicación
-
+# Casino Garibaldi
 
 <p align="center">
     <img src="https://iili.io/JKDli2j.md.png" alt="JKDli2j.md.png" border="0"></a>
@@ -8,20 +6,44 @@
 
 ---
 
-## Descripción de la Rama
-
-- La rama "Ubicación" de nuestro repositorio se enfoca en la visualización y gestión de información relacionada con la ubicación física del Casino. 
-- Esta sección es crucial para que los visitantes puedan encontrar el Casino fácilmente.
--  En esta rama, se trabaja en la precisión de mapas, direcciones, horarios de operación y cualquier información relevante para que los usuarios puedan acceder a las instalaciones físicas. 
-- La eficacia de esta sección es fundamental para garantizar que los clientes puedan ubicar el Casino en la ciudad de Ipiales, Nariño.
+## Desarrollo de Sitio Web con Bootstrap, CSS y HTML
 
 ---
 
-## Responsable
+## Propósito del Sitio
 
-<p align="center">
-  
-Andrés Lombana (Administrador)
-</p>
+El sitio web del Casino Garibaldi es una plataforma diseñada para promocionar y proporcionar información sobre este establecimiento de entretenimiento. 
+Su propósito principal es ofrecer a los visitantes una visión general de la institución, incluyendo su ubicación, servicios, Licencias e historia.
+Además, presenta imágenes atractivas para que los usuarios puedan explorar visualmente el casino y decidir si desean visitarlo en persona. 
+El objetivo es atraer a nuevos clientes, facilitar la planificación de visitas y ofrecer una experiencia en línea informativa y visual.
 
 ---
+
+## Herramientas Utilizadas
+
+- Bootstrap: Framework de CSS para el diseño del sitio.
+- CSS: Lenguaje de estilo utilizado para personalizar el diseño.
+- HTML: Lenguaje de marcado para la estructura del sitio.
+
+---
+
+## Integrantes
+
+- Andrés Lombana
+- Sergio Morillo
+- Carlos Arcos
+
+---
+
+## Instrucciones para Clonar y Ejecutar el Proyecto
+
+### Requisitos Previos
+
+- Navegador web (como Chrome o Firefox)
+
+### Instalación
+
+1. Clona este repositorio en tu máquina local utilizando Git:
+
+   ```bash
+   git clone https://github.com/andresflombana/CasinoGaribaldi.git
