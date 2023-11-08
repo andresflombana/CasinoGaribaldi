@@ -427,31 +427,9 @@ a:focus {
 }
 
 .client_section .detail_box {
-  padding: 25px;
-  background: -webkit-gradient(linear, left top, left bottom, from(#ffffff), to(#ffffff));
-  background: linear-gradient(to bottom, #ffffff, #000000);
-  color: #ffffff;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-}
-
-.client_section .detail_box h5 {
-  font-weight: bold;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  margin-right: 35px;
+  width: 100%;
+  max-width: 600px;
+  text-align: center;
 }
 
 .client_section iframe {
