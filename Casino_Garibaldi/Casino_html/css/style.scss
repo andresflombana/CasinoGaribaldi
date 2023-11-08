@@ -422,48 +422,48 @@ a:focus {
 .client_section {
   .client_container {
     width: 90%;
-    margin: 0 auto;
-    display: flex;
+    margin: 150% center;
+    display: center;
     align-items: center;
 
   }
 
   .img_box {
-    display: flex;
+    display: center;
     align-items: center;
     justify-content: center;
     min-width: 225px;
     min-height: 225px;
-    border-radius: 100%;
-    background: linear-gradient(to right, #afad04, #5da802);
-    margin-right: 15px;
+    border-radius: 150%;
+    background: linear-gradient(to center, #afad04, #5da802);
+    margin-right: 150px;
 
     img {
-      width: 75%;
+      width: 750%;
 
     }
   }
 
   .detail_box {
-    padding: 25px;
-    background: linear-gradient(to bottom, #afad04, #5da802);
+    padding: 250px;
+    background: linear-gradient(to center, #afad04, #5da802);
     color: $white;
-    display: flex;
+    display: center;
     align-items: center;
 
     h5 {
-      font-weight: bold;
-      display: flex;
-      flex-direction: column;
+      font-weight: center;
+      display: center;
+      flex-direction: center;
       align-items: center;
-      margin-right: 35px;
+      margin-right: 350px;
     }
   }
 
   .carousel-indicators {
-    justify-content: flex-end;
+    justify-content: center;
     width: 90%;
-    margin: 0 auto;
+    margin: 0 center;
     bottom: 30px;
 
     li {

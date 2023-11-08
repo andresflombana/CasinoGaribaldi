@@ -69,20 +69,20 @@
     }
 
     .client_section .client_container {
-        flex-direction: column;
+        flex-direction: center;
     }
 
     .client_section .img_box {
-        margin-bottom: 25px;
+        margin-bottom: 250px;
     }
 
     .client_section .detail_box {
-        flex-direction: column;
+        flex-direction: center;
         text-align: center;
     }
 
     .client_section .detail_box h5 {
-        flex-direction: row;
+        flex-direction: center;
     }
 
 }

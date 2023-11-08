@@ -416,86 +416,25 @@ a:focus {
   background-color: transparent;
 }
 
-.client_section .client_container {
-  width: 90%;
-  margin: 0 auto;
-  display: -webkit-box;
-  display: -ms-flexbox;
+.client_section {
   display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-}
-
-.client_section .img_box {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
-  min-width: 225px;
-  min-height: 225px;
-  border-radius: 100%;
-  background: -webkit-gradient(linear, left top, right top, from(#000000), to(#ffffff));
-  background: linear-gradient(to right, #ffffff, #ffffff);
-  margin-right: 15px;
-}
-
-.client_section .img_box img {
-  width: 75%;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  height: 100vh;
+  background-color: #f0eded; 
 }
 
 .client_section .detail_box {
-  padding: 25px;
-  background: -webkit-gradient(linear, left top, left bottom, from(#000000), to(#000000));
-  background: linear-gradient(to bottom, #ffffff, #000000);
-  color: #ffffff;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  width: 100%;
+  max-width: 600px;
+  text-align: center;
 }
 
-.client_section .detail_box h5 {
-  font-weight: bold;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-orient: vertical;
-  -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
-  -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
-  margin-right: 35px;
-}
-
-.client_section .carousel-indicators {
-  -webkit-box-pack: end;
-      -ms-flex-pack: end;
-          justify-content: flex-end;
-  width: 90%;
-  margin: 0 auto;
-  bottom: 30px;
-}
-
-.client_section .carousel-indicators li {
-  background-color: #0f0f0f;
-  margin: 0;
-  height: 15px;
-  width: 35px;
-  opacity: 1;
-}
-
-.client_section .carousel-indicators li.active {
-  background-color: #46a102;
+.client_section iframe {
+  width: 100%;
+  max-width: 100%;
 }
 
 .info_section {
