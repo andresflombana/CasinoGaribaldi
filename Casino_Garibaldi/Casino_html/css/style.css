@@ -30,7 +30,7 @@ h3 {
 
 body {
   font-family: "poppins", sans-serif;
-  color: #101010;
+  color: #000000;
   background-color: #ffffff;
 }
 
@@ -307,16 +307,43 @@ a:focus {
   display: flex;
 }
 
-.product_section .img-box img {
-  width: 100%;
+.galeria {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
 }
 
-.product_section .img-box.box-1, .product_section .img-box.box-3 {
-  width: 43%;
+.imagen-contenedor {
+  position: relative;
+  margin: 5px;
+  flex: 40%;
 }
 
-.product_section .img-box.box-2, .product_section .img-box.box-4 {
-  width: 53%;
+.imagen-contenedor.grande {
+  flex: 40%;
+}
+
+.imagen-contenedor img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.texto-overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  opacity: 0;
+  transition: opacity 0.3s ease-in-out;
+  background-color: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  font-size: 18px;
+  padding: 10px;
+}
+
+.imagen-contenedor:hover .texto-overlay {
+  opacity: 1;
 }
 
 .product_section a {
@@ -331,6 +358,11 @@ a:focus {
 .product_section a:hover {
   background-color: #000000;
   color: #ffffff;
+}
+
+video {
+  display: block;
+  margin: auto;
 }
 
 .why_section .why_container .img_box {
