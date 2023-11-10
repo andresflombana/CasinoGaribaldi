@@ -30,7 +30,7 @@ h3 {
 
 body {
   font-family: "poppins", sans-serif;
-  color: #101010;
+  color: #000000;
   background-color: #ffffff;
 }
 
@@ -331,6 +331,11 @@ a:focus {
 .product_section a:hover {
   background-color: #000000;
   color: #ffffff;
+}
+
+video {
+  display: block;
+  margin: auto;
 }
 
 .why_section .why_container .img_box {
