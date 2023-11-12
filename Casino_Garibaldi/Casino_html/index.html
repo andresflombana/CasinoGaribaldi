@@ -2,6 +2,7 @@
 <html>
 
 <head>
+  <link rel="icon" href="images/favicon.ico" type="image/x-icon">
   <!-- Basic -->
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -27,9 +28,9 @@
   <link href="css/responsive.css" rel="stylesheet" />
 </head>
 
-<body>
-  <div class="hero_area">
+<body onclick="PlayAudio()">
     <!-- header section strats -->
+    <div class="hero_area">
     <header class="header_section">
       <div class="container-fluid">
         <nav class="navbar navbar-expand-lg custom_nav-container pt-3">
@@ -43,7 +44,6 @@
             aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
-
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <div class="d-flex ml-auto flex-column flex-lg-row align-items-center">
               <ul class="navbar-nav  ">
@@ -81,8 +81,10 @@
             Acerca De Nosotros
           </h2>
           <p>
-            En el corazón de Ipiales, Nariño- Colombia, se encuentra nuestro casino, 
+            En el corazón de Ipiales, Nariño - Colombia, se encuentra nuestro casino, 
             donde la emoción y la diversión se entrelazan para brindarte una experiencia única. 
+          </p>
+          <p>
             En nuestro casino, te sumergirás en un mundo 
             de entretenimiento sin igual. 
           </p>
@@ -94,14 +96,10 @@
         </div>
         <div class="detail-2">
           <p>
-            Nuestra Misión es que nuestros clientes se sientan cómodos y como en casa mientras disfrutan de una amplia gama de juegos de azar y entretenimiento en el casino. 
-          </p>
-
+            Nuestra Misión es que nuestros clientes se sientan cómodos y como en casa mientras disfrutan de una amplia gama de juegos de azar y entretenimiento.
           <p>
-            Casino Garibaldi se enorgullece de operar bajo estrictos estándares de legalidad y regulación.
-            Contamos con una licencia de juegos y azar otorgada por ColJuegos, garantizando a nuestros clientes una experiencia de juego segura y justa. 
+            Casino Garibaldi elige su temática para encarnar y entregarle una identidad mexicana a su establecimiento, ofreciendo a los visitantes una experiencia única que abarca música Mexicana y un ambiente inspirado en su cultura.
           </p>
-        
         </div>
       </div>
     </div>
@@ -130,12 +128,11 @@
         <img src="images/p-4.jpg" alt="">
       </div>
     </div>
-    <div class="d-flex justify-content-center">
-      <a href="https://www.instagram.com/casino_garibaldi_ipiales/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA==">
-        Ver Más
       </a>
-    </div>
-      </a>
+      <video width="640" height="360" controls>
+        <source src="videos/CASINO_GARIBALDI.mp4" type="video/mp4">
+        Tu navegador no soporta el elemento de video.
+    </video>
     </div>
   </section>
 
@@ -217,17 +214,40 @@
             </div>
           </div>
         </a>
-
+        <audio id="musica" controls loop>
+          <source src="audio/Classic Mariachi - Jimena Contreras.mp3" type="audio/mpeg">
+      </audio>
       </div>
     </div>
+
   </section>
+
+  <script>
+    function PlayAudio() {
+      document.getElementById("musica").play();
+    }
+  </script>
 
   <!-- end info_section -->
 
   <!-- footer section -->
+
   <section class="container-fluid footer_section">
     <p>
-      &copy; 2023 All Rights Reserved By
+      Casino Garibaldi se enorgullece de operar bajo estrictos estándares de legalidad y regulación.
+      Contamos con una licencia de juegos y azar otorgada por ColJuegos, garantizando a nuestros clientes una experiencia de juego segura y justa. 
+    </p>
+    <p>
+      ㅤ
+    </p>
+    <p>
+      El juego es entretenimiento, juega con moderación
+    </p>
+    <p>
+      ㅤ
+    </p>
+    <p>
+      &copy; 2023 All Rights Reserved By Casino Garibaldi &
       <a href="https://github.com/andresflombana/CasinoGaribaldi.git">Ingeneas</a>
     </p>
   </section>
