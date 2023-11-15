@@ -82,15 +82,16 @@ body {
 
 .sub_page .hero_area {
   height: auto;
+  padding: 40px;
 }
 
 .hero_area.sub_pages {
   height: auto;
+  padding: 40px;
 }
 
 .header_section .container-fluid {
-  padding-right: 25px;
-  padding-left: 25px;
+  padding: 40px;
 }
 
 .header_section .nav_container {
@@ -98,7 +99,7 @@ body {
 }
 
 .custom_nav-container.navbar-expand-lg .navbar-nav .nav-link {
-  padding: 10px 30px;
+  padding: 40px;
   color: #ffffff;
   text-align: center;
   text-transform: uppercase;
@@ -126,7 +127,7 @@ a:focus {
 .navbar-brand:hover {
   text-transform: uppercase;
   font-weight: bold;
-  font-size: 24px;
+  font-size: 40px;
   color: #fafcfd;
 }
 
@@ -134,10 +135,10 @@ a:focus {
   background-image: url(../images/search-icon.png);
   background-size: 22px;
   background-repeat: no-repeat;
-  background-position-y: 7px;
-  width: 35px;
-  height: 35px;
-  padding: 0;
+  background-position-y: 40px;
+  width: 40px;
+  height: 40px;
+  padding: 40px;
   border: none;
 }
 
@@ -169,7 +170,7 @@ a:focus {
 
 .custom_nav-container {
   z-index: 99999;
-  padding: 15px 0;
+  padding: 40px 0;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
@@ -185,7 +186,7 @@ a:focus {
 
 .custom_nav-container .navbar-toggler .navbar-toggler-icon {
   background-image: url(../images/menu.png);
-  background-size: 35px;
+  background-size: 40px;
 }
 
 /*end header section*/
@@ -206,7 +207,7 @@ a:focus {
 }
 
 .hero_section h1 {
-  font-size: 85px;
+  font-size: 40px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -219,7 +220,7 @@ a:focus {
 
 .hero_section .hero_btn-box a {
   display: inline-block;
-  padding: 12px 55px;
+  padding: 40px 40px;
   background-color: transparent;
   border: 1.5px solid #ffffff;
   color: #ffffff;
@@ -233,14 +234,15 @@ a:focus {
 }
 
 .sub_page .about_section .about_container {
-  margin-top: 0;
+  margin-top: 40px;
+  padding: 40px 40px;
 }
 
 .about_section .about_container {
   width: 85%;
   margin-left: auto;
   margin-right: auto;
-  padding: 75px 45px;
+  padding: 40px 40px;
   background-image: url(../images/acercade.jpg);
   background-size: auto 100%;
   background-color: #fff;
@@ -321,7 +323,7 @@ a:focus {
 
 .product_section a {
   display: inline-block;
-  padding: 14px 35px;
+  padding: 40px 40px;
   background-color: transparent;
   border: 1.5px solid #000000;
   color: #000000;
@@ -349,7 +351,7 @@ video {
 
 .why_section a {
   display: inline-block;
-  padding: 14px 35px;
+  padding: 40px 40px;
   background-color: transparent;
   border: 1.5px solid #000000;
   color: #000000;
@@ -379,7 +381,7 @@ video {
   height: 50px;
   border-radius: 30px;
   margin: 20px 0;
-  padding-left: 25px;
+  padding-left: 40px;
   background-color: #ffffff;
   outline: none;
   color: #101010;
@@ -407,7 +409,7 @@ video {
 
 .contact_section button {
   background-color: #e92c06;
-  padding: 15px 55px;
+  padding: 40px 40px;
   outline: none;
   border: none;
   border-radius: 30px;
@@ -518,7 +520,7 @@ video {
 /* footer section*/
 .footer_section {
   background-color: #ffffff;
-  padding: 20px;
+  padding: 40px;
   font-weight: 500;
 }
 

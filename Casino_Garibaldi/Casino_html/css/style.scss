@@ -1,4 +1,4 @@
-$btnColor: #00ff00;
+$btnColor: #000000;
 $cream: #f2d8b9;
 $blue: #f2d8b9;
 $white: #ffffff;
@@ -291,7 +291,7 @@ a:focus {
   .detail {
     a {
       @include hero_bt($btnColor, $white, 14px, 35px);
-      color: #3cff3c;
+      color: #000000;
       margin-top: 75%;
     }
   }
@@ -335,7 +335,7 @@ a:focus {
 
   a {
     @include hero_bt($btnColor, $white, 14px, 35px);
-    color: #3cff3c;
+    color: #000000;
   }
 }
 
@@ -356,7 +356,7 @@ a:focus {
 
   a {
     @include hero_bt($btnColor, $white, 14px, 35px);
-    color: #3cff3c;
+    color: #000000;
   }
 }
 
@@ -399,17 +399,17 @@ a:focus {
   }
 
   button {
-    background-color: #e92c06;
+    background-color: #000000;
     padding: 15px 55px;
     outline: none;
     border: none;
     border-radius: 30px;
-    border: 1px solid #e92c06;
+    border: 1px solid #000000;
     color: #fff;
     font-weight: bold;
 
     &:hover {
-      color: #e92c06;
+      color: #000000;
       background-color: transparent;
     }
   }
@@ -435,7 +435,7 @@ a:focus {
     min-width: 225px;
     min-height: 225px;
     border-radius: 150%;
-    background: linear-gradient(to center, #afad04, #5da802);
+    background: linear-gradient(to center, #000000, #000000);
     margin-right: 150px;
 
     img {
@@ -446,7 +446,7 @@ a:focus {
 
   .detail_box {
     padding: 250px;
-    background: linear-gradient(to center, #afad04, #5da802);
+    background: linear-gradient(to center, #000000, #000000);
     color: $white;
     display: center;
     align-items: center;
@@ -474,7 +474,7 @@ a:focus {
       opacity: 1;
 
       &.active {
-        background-color: #46a102;
+        background-color: #000000;
       }
     }
 
