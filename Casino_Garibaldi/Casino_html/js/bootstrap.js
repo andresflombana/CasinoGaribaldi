@@ -4,17 +4,6 @@
   * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
   */
 
-document.addEventListener('DOMContentLoaded', function() {
-
-  document.getElementById('loading').style.display = 'block';
-
-  setTimeout(function() {
-    document.getElementById('loading').style.display = 'none';
-    document.getElementById('wrapper').style.display = 'block'; 
-  }, 3500); 
-});
-
-
 (function (global, factory) {
   typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports, require('jquery'), require('popper.js')) :
     typeof define === 'function' && define.amd ? define(['exports', 'jquery', 'popper.js'], factory) :
